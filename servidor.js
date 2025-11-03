@@ -27,6 +27,6 @@ app.post('/analisador', (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log(`Servidor funcionando em http://localhost:${port}`);
+    console.log(`Teste - Servidor funcionando em http://localhost:${port}`);
 });
 
