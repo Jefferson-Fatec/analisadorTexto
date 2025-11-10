@@ -4,6 +4,7 @@
   "description": "projeto analisador de texto",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Sem testes\" && exit 0"
   },
   "author": "fatec",
